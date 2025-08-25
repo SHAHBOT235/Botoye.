@@ -68,7 +68,7 @@ ${poetry}
 
 🎯 𝐌𝐚𝐭𝐜𝐡 𝐏𝐞𝐫𝐜𝐞𝐧𝐭𝐚𝐠𝐞: ${tle}%
 
- 𝐎𝐰𝐧𝐞𝐫 Haseen: 👑 Janu bot 💌
+ 𝐎𝐰𝐧𝐞𝐫 Haseen: 👑 janu 𝐁𝐨𝐭 💌
 ╰═══════════════════╯`,
     mentions: arraytag,
     attachment: imglove
