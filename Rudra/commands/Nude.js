@@ -5,7 +5,7 @@ module.exports.config = {
   credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "",
   commandCategory: "18+",
-  usages: "",
+  usages: "18+",
     cooldowns: 5,
     dependencies: {"fs-extra": "","axios": ""}
 };
