@@ -5,7 +5,7 @@ module.exports.config = {
   credits: "ALI BABA",
   description: "pairing",
   commandCategory: "Love", 
-  usages: "pairA1", 
+  usages: "jori", 
   cooldowns: 10
 };
 module.exports.run = async function({ api, event,Threads, Users }) {
